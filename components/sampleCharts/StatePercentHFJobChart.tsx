@@ -62,7 +62,7 @@ const StatePercentHFJobChart = ({ data }) => {
             <div style={{ marginTop: '20px' }}>
                 <p><strong>Maximum Average Percent HF Job:</strong> {stats.maxAverage}%</p>
                 <p><strong>Minimum Average Percent HF Job:</strong> {stats.minAverage}%</p>
-                <p><strong>Most Recent Year's Average Percent HF Job:</strong> {stats.latestAverage}%</p>
+                <p><strong>Most Recent Year Average Percent HF Job:</strong> {stats.latestAverage}%</p>
                 <p><strong>Total Years Recorded:</strong> {stats.yearsRecorded}</p>
             </div>
         </div>
