@@ -19,7 +19,7 @@
     "@types/node": "20.12.12",
     "@types/react": "18.3.2",
     "@types/react-dom": "18.3.0",
-    "antd": "^5.16.5",
+    "antd": "^5.19.0",
     "chart.js": "^4.4.2",
     "chartjs": "^0.3.24",
     "cors": "^2.8.5",
